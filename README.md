@@ -25,3 +25,6 @@ Para iniciar el algoritmo voraz, ejecutamos el siguiente comando:
 ```
 python .\algoritmo_voraz.py
 ```
+### Descargas
+Tambien se puede descargar todo el código en el repositorio:
+[KevZavala](https://github.com/KevZavala/Agente-Viajero)
