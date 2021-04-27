@@ -1,0 +1,7 @@
+
+
+venv/
+ineficientes/
+__pycache__/
+main.py
+permutaciones.py
